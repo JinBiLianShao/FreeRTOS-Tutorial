@@ -127,11 +127,10 @@ Bash
 
 ```
 # 这里是我创建的仓库
-git clone https://github.com/YOUR_USERNAME/FreeRTOS-Tutorial.git
+git clone https://github.com/JinBiLianShao/FreeRTOS-Tutorial.git
 cd FreeRTOS-Tutorial
 ```
 
-*（请注意：此处假设代码仓已建立，请替换为你的实际链接）*
 
 克隆后，你将看到大纲中描述的统一目录结构：
 
